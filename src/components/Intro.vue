@@ -5,11 +5,11 @@
           <div class="col-md-6 image__holder">
               <img src="../assets/images/img2.svg" class="img-fluid image" alt=""><br><br>
           </div>
-          <div class="col-md-1"></div>
-          <div class="col-md-5">
-              <h2>Gateway <span class="orange">Investment Company</span></h2>
+          <!-- <div class="col-md-1"></div> -->
+          <div class="col-md-6">
+              <h2>Super Income<span class="orange">Investment Company</span></h2>
               <hr>
-              <p>Gateway Investment Limited was created with the aim of eliminating poverty and hardship from Nigeria. It's a reliable and genuine platform created for the benefit of every Nigerian to achieve wealth and happiness by investing and getting back your investment in 5days and 24hours without any delay or stress in payment</p>
+              <p>Super Income Investment Limited was created with the aim of eliminating poverty and hardship from Nigeria. It's a reliable and genuine platform created for the benefit of every Nigerian to achieve wealth and happiness by investing and getting back your investment in 5days and 24hours without any delay or stress in payment</p>
                <router-link to="/signup" class="intro-btn animated zoomIn animate3d">Get Started <i class="fas fa-long-arrow-alt-right"></i> </router-link>
           </div>
       </div>
