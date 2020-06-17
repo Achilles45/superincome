@@ -34,7 +34,7 @@
                      <div class="icon__wrapper">
                             <p><i class="fa fa-home"></i></p>
                      </div>
-                        <p class="pl-3">NO.16 Alabarao Market, Badagry Express Way, Okokomaiko,Lagos State, Nigeria.</p>
+                        <p class="pl-3">No 22 Obiopko L.G.A GRA Phase 5 Off Josh Avenue Close to Hankies Hills Eatery Nasarawa State.</p>
                     </div>
                   </div>
                   <br>

@@ -3,7 +3,7 @@
       <div class="container">
           <div class="navbar__content d-flex justify-content-between align-items-center">
               <div class="logo pt-2">
-                  <router-link to="/" class="logo"><h3><i class="fa fa-cubes"></i>&nbsp; Super Income Ltd </h3> </router-link>
+                  <router-link to="/" class="logo"><img src="../assets/images/brand.jpg" class="logo__img" alt=""></router-link>
               </div>
               <div class="menu">
                   <ul class="d-flex justify-content-between pt-3">
@@ -64,13 +64,13 @@ export default {
         .logo{
              text-decoration: none !important;
             //  color: #fff;
-            h3{
+            h4{
                 color: $primary-color;
                 font-weight: bolder;
-                font-size: 1.3rem;
+                font-size: 1rem;
             }
             .logo__img{
-                max-width: 280px;
+                max-width: 70px;
                 height: auto;
             }
         }

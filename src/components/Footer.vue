@@ -10,7 +10,7 @@
                <div class="col-md-4">
                   <h5>Our Location & Contact</h5>
                 <h6><i class="fa fa-home"></i> Head Office</h6>
-                <p>NO.16 Alabarao Market, Badagry Express Way, Okokomaiko,Lagos State, Nigeria.</p>
+                <p>No 22 Obiopko L.G.A GRA Phase 5 Off Josh Avenue Close to Hankies Hills Eatery Nasarawa State.</p>
                  <h6><i class="fa fa-envelope"></i>Email Address</h6>
                 <p>superincomeinvestment701@gmail.com</p>
                  <h6><i class="fa fa-phone"></i>Phone</h6>
