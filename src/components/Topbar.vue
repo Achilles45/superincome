@@ -6,7 +6,7 @@
                  <i class="fa fa-phone"></i>&nbsp;&nbsp; 07040396172&nbsp;  (Mon - Fri, 9am to 4pm)
             </div>
             <div class="col-md-3">
-                 <i class="fa fa-envelope"></i>&nbsp;&nbsp; gatewayinvestment09@gmail.com
+                 <i class="fa fa-envelope"></i>&nbsp;&nbsp; superincomeinvestment701@gmail.com
             </div>
             <div class="col-md-6">
                 <i class="fa fa-cubes"></i>&nbsp;&nbsp; Note that Terms and conditions applies to all investment plans
